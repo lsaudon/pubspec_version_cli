@@ -10,7 +10,7 @@ environment:
 
 dependencies:
   args: ^2.4.0
-  cli_completion: ^0.2.0
+  cli_completion: ">=0.2.0 <0.4.0"
   file: ^6.1.4
   mason_logger: ^0.2.5
   path: ^1.8.3
