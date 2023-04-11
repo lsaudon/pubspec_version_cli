@@ -1,6 +1,6 @@
 name: pubspec_version_cli
 description: Command-Line Interface to change the version in pubspec
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/lsaudon/pubspec_version_cli
 repository: https://github.com/lsaudon/pubspec_version_cli
 issue_tracker: https://github.com/lsaudon/pubspec_version_cli/issues
