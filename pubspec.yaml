@@ -1,5 +1,5 @@
 name: pubspec_version_cli
-description: Command-Line Interface to change the version in pubspec
+description: A Command-Line Interface to replace the version in pubspec.yaml
 version: 0.0.2
 homepage: https://github.com/lsaudon/pubspec_version_cli
 repository: https://github.com/lsaudon/pubspec_version_cli
