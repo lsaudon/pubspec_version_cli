@@ -1,3 +1,7 @@
+## 0.1.0
+
+- ⬆️ Dart 3
+
 ## 0.0.2
 
 - ⬆️ Upgrade dependencies
