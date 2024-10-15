@@ -20,7 +20,7 @@ const description = 'Command-Line Interface to change the version in pubspec';
 /// {@template pubspec_version_cli_command_runner}
 /// A [CommandRunner] for the CLI.
 ///
-/// ```
+/// ```bash
 /// $ pubspec_version --version
 /// ```
 /// {@endtemplate}
