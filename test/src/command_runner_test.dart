@@ -85,8 +85,8 @@ void main() {
 
       final progress = _MockProgress();
       final progressLogs = <String>[];
-      when(() => progress.complete(any())).thenAnswer((final _) {
-        final message = _.positionalArguments.elementAt(0) as String?;
+      when(() => progress.complete(any())).thenAnswer((final invocation) {
+        final message = invocation.positionalArguments.elementAt(0) as String?;
         if (message != null) {
           progressLogs.add(message);
         }
