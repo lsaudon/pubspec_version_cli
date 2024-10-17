@@ -13,7 +13,7 @@ dependencies:
   cli_completion: 0.5.1
   file: 7.0.1
   mason_logger: 0.3.1
-  path: 1.9.0
+  path: 1.9.1
   pub_updater: 0.5.0
   yaml: 3.1.2
 
